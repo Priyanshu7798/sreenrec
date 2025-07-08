@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Priyanshu-Jha-s-workspace-opdia0.us-east-1.xata.sh/db/ScreenCast:main",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
