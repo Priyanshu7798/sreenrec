@@ -1,18 +1,88 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=honnJp7-cCU" target="_blank">
-      <img src="public/readme/hero.jpg" alt="Project Banner">
-    </a>
-  <br />
+    <img src="public/readme/hero.jpg" alt="Project Banner" />
+  </a>
+  <br /><br />
 
   <div>
-    <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
-    <img src="https://img.shields.io/badge/Bunny.net-F47326?style=for-the-badge&logo=bunnyvideo&logoColor=white">
-    <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Bunny.net-F47326?style=for-the-badge&logo=bunnyvideo&logoColor=white" alt="Bunny.net" />
+    <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </div>
 
-  <h3 align="center">Full Stack Screen Recording & Video Sharing Platform</h3>
+  <h3 align="center">🎥 Full Stack Screen Recording & Video Sharing Platform</h3>
+</div>
 
+---
+
+## 🤖 Introduction
+
+This is a full-stack screen recording and video sharing platform built with **Next.js**, **Bunny.net**, and other modern technologies. It supports screen recording, video uploads, social authentication (via [Better Auth](https://www.better-auth.com)), video privacy controls, and AI-powered transcripts.
+
+Users can:
+- Record and upload videos
+- Share via links
+- Set videos public/private
+- View AI-generated transcripts
+- Search videos by metadata
+
+> 💬 **Need help?** Join our active Discord community with over **50,000+ developers** helping each other grow:
+<br />
+<a href="https://discord.com/invite/n6EdbFJ" target="_blank">
+  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" width="300" />
+</a>
+
+---
+
+## ⚙️ Tech Stack
+
+| Technology     | Description |
+|----------------|-------------|
+| **Next.js**    | React framework with SSR, static generation & API routes |
+| **Tailwind CSS** | Utility-first CSS framework for responsive UI |
+| **TypeScript** | Static typing for JavaScript with improved tooling |
+| **Bunny.net**  | Video CDN with streaming, edge storage, and token-based security |
+| **Drizzle ORM**| Lightweight, type-safe ORM for SQL |
+| **Better Auth**| Secure and scalable authentication & authorization |
+| **Arcjet**     | Developer-first security platform for bot protection, rate limiting, and more |
+| **Xata**       | Serverless PostgreSQL database with real-time branching & search |
+
+---
+
+## 🔋 Features
+
+- ✅ **Authentication** with Google & Better-Auth  
+- ✅ **Screen Recording** in-browser  
+- ✅ **Video Uploading** with privacy toggles  
+- ✅ **AI Transcripts** for video accessibility  
+- ✅ **Video Metadata** including ID and URL  
+- ✅ **Search Bar** to find content fast  
+- ✅ **Shareable Links** for public/private videos  
+- ✅ **Modern UI/UX** with responsive Tailwind styling  
+- ✅ **Drizzle ORM** for type-safe queries  
+- ✅ **Arcjet Integration** for security and bot protection  
+- ✅ **Fully Responsive** across mobile, tablet, and desktop  
+- ✅ **Reusable Components** and modular codebase  
+- ✅ **Xata** for fast, scalable DB management  
+
+---
+
+## 🚀 Quick Start
+
+### ✅ Prerequisites
+
+Ensure you have the following installed:
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/)
+
+### 🔄 Clone the Repository
+
+```bash
+git clone https://github.com/adrianhajdin/screen_recording_sharing_app.git
+cd screen_recording_sharing_app
+
+````
 
 
 ## <a name="introduction">🤖 Introduction</a>
